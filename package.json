@@ -1,0 +1,14 @@
+{
+  "name": "my-easy-firestore",
+  "version": "1.0.0",
+  "description": "My Easy Firestore makes it easy to use Firestore Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mr-Julus",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.12.3"
+  }
+}
